@@ -43,4 +43,4 @@ This **Excel-powered dashboard** is your one-stop solution to analyze, visualize
 -**Creativity:** Designed for clarity, simplicity, and ease of use.
 
 ## 🌟 Let’s Connect!
-I’m passionate about creating intuitive dashboards and making data accessible for everyone. Let’s connect on LinkedIn www.linkedin.com/in/pooja-pawar-92086217a to discuss all things Excel, dashboards, and data insights!
+I’m passionate about creating intuitive dashboards and making data accessible for everyone. Let’s connect on [LinkedIn] (www.linkedin.com/in/pooja-pawar-92086217a) to discuss all things Excel, dashboards, and data insights!
