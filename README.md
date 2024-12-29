@@ -12,17 +12,17 @@ This **Excel-powered dashboard** is your one-stop solution to analyze, visualize
 
 ## Dashboard Components
 
-1.**KPI Summary:**
+**1. KPI Summary:**
 - Total Income: $12,600.00
 - Total Expense: $7,578.00
 - Net Profit: $5,022.00
 
-2.**Visual Gems:**
+**2. Visual Gems:**
 - **Net Profit Gauge:** Quickly see if you’re on track.
 - **Quarterly & Monthly Trends:** Find out when your business shines and when to double down.
 - **Expense Drill-Down:** See exactly where your money is going.
 
-3.**Interactive Visuals:** Bar charts, donut charts, and more—all updated dynamically as you input data.
+**3. Interactive Visuals:** Bar charts, donut charts, and more—all updated dynamically as you input data.
 
 ## Why Use This Dashboard?
 - **Decisions at a Glance:** No more manual digging—get the answers you need in seconds.
