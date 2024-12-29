@@ -4,6 +4,10 @@
 
 This **Excel-powered dashboard** is your one-stop solution to analyze, visualize, and optimize your business's financial performance. Built for simplicity and efficiency, it translates raw numbers into actionable insights at a glance.
 
+
+![image](https://github.com/user-attachments/assets/ab50a57a-ec83-48fa-9683-62952757b6a4)
+
+
 ## What Makes This Dashboard Awesome?
 - **High-Level Insights:** Instantly track your **Total Income, Expenses,** and **Net Profit**.
 - **Performance Tracking:** The **Net Profit KPI Gauge** shows 81.06% target completion—because knowing where you stand is half the battle.
