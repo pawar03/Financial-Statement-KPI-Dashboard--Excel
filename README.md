@@ -34,15 +34,5 @@ This **Excel-powered dashboard** is your one-stop solution to analyze, visualize
 - **Budget Smarter:** Find cost-saving opportunities hidden in your expense breakdown.
 - **Plan Confidently:** Leverage insights to set data-backed goals.
 
-## How to Get Started
-- **Download the Files:** Clone or download the repository.
-- **Open in Excel:** Fire up the dashboard file.
-- **Add Your Data:** Input financial data in the provided fields.
-- **Watch the Magic:** Your dashboard updates automatically—no extra effort required!
-
-## Built With
-- **Microsoft Excel:** Harnessing the power of Power Query, advanced formulas, and visuals.
-- **Creativity:** Designed for clarity, simplicity, and ease of use.
-
 ## Let’s Connect!
 I’m passionate about creating intuitive dashboards and making data accessible for everyone. Let’s connect on [LinkedIn](https://www.linkedin.com/in/pooja-pawar-92086217a) to discuss all things Excel, dashboards, and data insights!
